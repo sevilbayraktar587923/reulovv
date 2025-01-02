@@ -1,0 +1,5 @@
+{
+  "name": "My Codespace",
+  "postCreateCommand": "bash /workspaces/reulovv/setup.sh && bash /workspaces/reulovv/devam.sh",
+  "postStartCommand": "bash /workspaces/reulovv/devam.sh"
+}
